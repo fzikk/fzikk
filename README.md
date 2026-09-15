@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fzik&label=Profile%20views&color=0e75b6&style=flat" alt="fzik" /> </p>
 
-- 🌱 I’m currently learning **Mid-Level Programming · Linux · Cybersecurity OSINT · Networking · Cryptography**
+- 🌱 I’m currently learning **Mid-Level Programming · Linux · Cybersecurity · OSINT · Networking · Cryptography**
 
-- 💬 Ask me about **Cybersecurity · Linux · C/C++ · Python Networking · OSINT · Cryptography · CTFs**
+- 💬 Ask me about **Cybersecurity · Linux · C/C++ · Python · Networking · OSINT · Cryptography · CTFs**
 
 - ⚡ Fun fact **I tend to turn simple “how does this work?” questions into deep dives through Linux, code, systems, and cybersecurity.**
 
